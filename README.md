@@ -146,10 +146,3 @@ Full Stack Development Project – Modex Assessment
 
 
 
-users.png
-
-Commit & push:
-
-git add README.md screenshots/
-git commit -m "Add project README and database screenshots"
-git push
